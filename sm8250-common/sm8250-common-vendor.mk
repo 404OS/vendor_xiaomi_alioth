@@ -748,6 +748,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libfastcvopt \
     libthermalclient \
+    CACertService \
     CneApp \
     MotoDolbyV3 \
     IWlanService \
